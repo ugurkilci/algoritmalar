@@ -1,0 +1,9 @@
+Bounce Rate, bir web sitesinin ziyaretçilerinin kaç tanesinin sayfayı açtıktan hemen sonra aynı sayfadan ayrıldığını gösteren bir ölçümdür. Genellikle, Bounce Rate yüksek olan bir web sitesi, ziyaretçilerinin ilgisini çekmeyebilir ve düşük bir dönüşüm oranına sahip olabilir.
+
+Bounce Rate, genellikle yüzde olarak ifade edilir ve aşağıdaki formülle hesaplanır:
+
+Bounce Rate = (Toplam Sayfa Atlamaları / Toplam Ziyaretler) x 100
+
+Bu formül, bir web sitesinin bir dönem içinde aldığı toplam ziyaretlerin sayısına bölünerek hesaplanır. Toplam sayfa atlamaları ise, ziyaretçilerin açtıkları sayfayı hemen kapattıkları ziyaretlerdir.
+
+Bounce Rate, genellikle bir web sitesinin performansını değerlendirmede kullanılır. Örneğin, bir e-ticaret sitesinin Bounce Rate'i yüksekse, bu siteyi ziyaret edenlerin çoğunun ürünleri görüp hemen siteyi terk etmesi anlamına gelebilir. Bu durumda, site sahipleri ürünleri daha ilginç hale getirme veya ziyaretçilerin daha fazla zaman geçirmeyi teşvik eden özellikler ekleme gibi çözümler düşünebilirler.
